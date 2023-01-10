@@ -1,0 +1,24 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "currencyconverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek99tt/JSM-YT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek99tt/JSM-YT/issues"
+  },
+  "homepage": "https://github.com/abhishek99tt/JSM-YT#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "node-fetch": "^3.3.0"
+  }
+}
